@@ -18,3 +18,5 @@
   <img align="center" alt="ph" height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <img align="center" alt="ph" height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
 <br>
+  
+ ![Snake animation](https://github.com/phillypi/phillypi/blob/output/github-contribution-grid-snake.svg)
