@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Android mobile projects
-- 🌱 I’m currently learning Java/Kotlin and Jetpack Compose
+- 🌱 I’m currently learning about Java/Kotlin and Jetpack Compose
 - 👯 I’m looking to collaborate on mobile projects
 - 🏡 I live in Brazil -> Federal District
-- 📫 How to reach me: fernandesphillypi323@gmail.com
+- 📫 How to contact me: fernandesphillypi323@gmail.com
 
 <div align="center">
   <a href="https://github.com/phillypi">
