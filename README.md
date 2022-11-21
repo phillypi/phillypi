@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Working on Android mobile projects
+- 🔭 Working now on Android mobile projects
 - 🌱 Learning about Java/Kotlin and Jetpack Compose
 - 👯 I’m looking to collaborate on mobile projects
 - 🏡 Live in Brazil -> Federal District
