@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 - 🔭 Working now on Android mobile projects
 - 🌱 Learning about Java/Kotlin and Jetpack Compose
