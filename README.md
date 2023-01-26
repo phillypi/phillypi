@@ -1,9 +1,6 @@
-### Hi everyone 👋
-
-- 🔭 Working now on Android mobile projects
-- 🌱 Learning about Java/Kotlin and Jetpack Compose
-- 👯 I’m looking to collaborate on mobile projects
-- 🏡 Live in Brazil -> Federal District
+- 🌱 Learning Java/Kotlin and Jetpack Compose
+- 👯 May looking to collaborate on mobile projects
+- 🏡 Live in Brazil
 - 📫 How to contact me: fernandesphillypi323@gmail.com
 
 <div align="center">
