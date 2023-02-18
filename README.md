@@ -1,7 +1,7 @@
-- 🌱 Learning Java/Kotlin and Jetpack Compose
+- 🌱 Java/Kotlin DEV
 - 👯 May looking to collaborate on mobile projects
 - 🏡 Live in Brazil
-- 📫 How to contact me: fernandesphillypi323@gmail.com
+- 📫 To contact me: fernandesphillypi323@gmail.com
 
 <div align="center">
   <a href="https://github.com/phillypi">
