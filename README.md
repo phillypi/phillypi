@@ -1,5 +1,5 @@
 - 🌱 Java/Kotlin DEV
-- 👯 May looking to collaborate on mobile projects
+- 👯 Looking to collaborate on mobile app projects
 - 🏡 Live in Brazil
 - 📫 To contact me: fernandesphillypi323@gmail.com
 
