@@ -30,7 +30,7 @@
 - Circuit Design
 - Hardware and softwares tools
 
-## Computer networks and protocols
+## Computer, networks and protocols
 
 - Linux, Ctrl+Alt+T
 - Mikrotik, RouterBoards
