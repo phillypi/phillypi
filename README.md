@@ -45,10 +45,10 @@
 
 ## WoodWorking and mechanic 
 
-- You may be surprised by some of the things I can do with wood or with custom motorcycle :grin:.
+- You may be surprised by some of the things I can do with wood or with custom motorcycles :grin:.
 
 ## Contact
-- [Email](fernandesphillypi323@gmail.com)
+- Email - fernandesphillypi323@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/phillypi/)
 
 
