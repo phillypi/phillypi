@@ -23,7 +23,7 @@
 ## Other Skills
 
 *Microcontrolers*
-- C/C++ Languages
+- C/C++ Languages (yes, i know pointers too, and pointers to pointers....)
 - Arduino projects
 - Pic Microcontrolers
 - Raspberry PI projects
@@ -34,7 +34,7 @@
 
 - Linux, Ctrl+Alt+T
 - Mikrotik, RouterBoards
-- CISCO
+- CISCO (a little)
 - Swiches
 - Wireless link P2P
 - Digital link P2P
