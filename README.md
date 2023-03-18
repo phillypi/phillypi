@@ -30,6 +30,18 @@
 - Circuit Design
 - Hardware and softwares tools
 
+## Computer networks and protocols
+
+- Linux, Ctrl+Alt+T
+- Mikrotik, RouterBoards
+- CISCO
+- Swiches
+- Wireless link P2P
+- Digital link P2P
+- Panels(radio signal multi-client antennas and links)
+- DSLAM, IP, HTTP, FTP, FTPS, SSH, ARP, TCP, UDP, SMTP, IMAP, DHCP
+- WEP/WPA/WPA2
+
 ## WoodWorking and mechanic 
 
 - You may be surprised by some of the things I can do with wood or with custom motorcycle :grin:.
