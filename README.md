@@ -1,4 +1,4 @@
-## Hi there, I am Phillypi and I appreciate to see you here
+# Hi there, I am Phillypi and I appreciate to see you here
 
 ## About Me
 - Native Brazilian
