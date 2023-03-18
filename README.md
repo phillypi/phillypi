@@ -14,7 +14,7 @@
 - SQLite
 - Room
 - App Design
-- XML
+- XML (constraintLayout, recyclerViews, fragments and complexes views)
 - Android SDK
 - MVVM
 - MVC
