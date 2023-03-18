@@ -1,4 +1,4 @@
-# Hi there, I am Phillypi and I am glad to see you here
+# Hi there, I am Phillypi and I make apps instead of working :grin:
 
 ## About Me
 - Native Brazilian
