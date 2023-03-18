@@ -1,23 +1,58 @@
-- 🌱 Java/Kotlin DEV
-- 👯 Looking to collaborate on mobile app projects
-- 🏡 Live in Brazil
-- 📫 To contact me: fernandesphillypi323@gmail.com
+# Phillypi F. Vieira
+
+## About Me
+- Native Brazilian
+- Native Android Developer
+- Proficient in Java, Kotlin, Firebase, Sqlite, and Room
+
+## Technical Skills
+
+*Native Android*
+- Java
+- Kotlin
+- Firebase
+- SQLite
+- Room
+- App Design
+- XML
+- Android SDK
+- MVVM
+- MVC
+- Good practices
+
+## Other Skills
+
+*Microcontrolers*
+- C/C++ Languages
+- Arduino projects
+- Pic Microcontrolers
+- Raspberry PI projects
+- Circuit Design
+- Hardware and softwares tools
+
+## WoodWorking and mechanic 
+
+- You may be surprised by some of the things I can do with wood or with custom motorcycle :grin:.
+
+## Contact
+- [Email](fernandesphillypi323@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/phillypi/)
+
 
 <div align="center">
   <a href="https://github.com/phillypi">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=phillypi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillypi&layout=tokyonight&langs_count=7&theme=tokyonight"/>
+  <img height="145em" width="350em" src="https://github-readme-stats.vercel.app/api?username=phillypi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillypi&layout=tokyonight&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block" align="center" ><br>
-<img align="center" alt="ph" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
-  <img align="center" alt="ph" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="ph" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
-  <img align="center" alt="ph" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" alt="ph" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-  <img align="center" alt="ph" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-          
-  <img align="center" alt="ph" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+<img align="center" alt="ph" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
+  <img align="center" alt="ph" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="ph" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
+  <img align="center" alt="ph" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+  <img align="center" alt="ph" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  <img align="center" alt="ph" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img align="center" alt="ph" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
 <br>
-  
+
  ![Snake animation](https://github.com/phillypi/phillypi/blob/output/github-contribution-grid-snake.svg)
