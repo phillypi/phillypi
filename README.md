@@ -50,7 +50,7 @@
 <br>
 <br>
 
-<h2 align="center">Here are some statistics that don't matter much; the coolest thing is the snake.</h2>
+<h3 align="center">Here are some statistics that don't matter much; the coolest thing is the snake.</h3>
 
 
 <div align="center">
