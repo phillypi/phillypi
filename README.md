@@ -2,8 +2,8 @@
 
 ## About Me
 - Native Brazilian
-- Native Android Developer
-- Proficient in Java, Kotlin, Firebase, Sqlite, and Room
+- Android Developer
+- Proficient in Java, Kotlin, Firebase and Room
 
 ## Technical Skills
 
