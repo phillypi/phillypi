@@ -25,7 +25,7 @@
 ## Other Skills
 
 *Microcontrolers*
-- C/C++ Languages (yes, i know pointers too, and pointers to pointers....)
+- C/C++ Languages (yes, I know how to use pointers haha....)
 - Arduino projects
 - Pic Microcontrolers
 - Raspberry PI projects
