@@ -1,5 +1,5 @@
 
-<h1>Hi there, I make apps instead of working :grin: <span style="font-size: 0.3em; vertical-align: super;"> </h1></span>#WorkYouLikeIsNotWork
+<h1>Hi there, I make apps instead of working :grin: <span style="font-size: 0.3em; vertical-align: super;"> </h1></span><b>#WorkYouLikeIsNotWork</b>
 
 
 ## About Me
