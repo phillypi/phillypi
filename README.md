@@ -1,6 +1,5 @@
 
-<h1>Hi there, I make apps instead of working :grin: <span style="font-size: 0.3em; vertical-align: super;"> </h1>
-
+## Hi there, I make apps instead of working :grin: 
 
 ## About Me
 - Native Brazilian
