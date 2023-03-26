@@ -49,7 +49,6 @@
 - You may be surprised by some of the things I can do with wood or with custom motorcycles :grin:.
 
 <br>
-<br>
 
 <h3 align="center">Here are some statistics that don't matter much; the coolest thing is the snake.</h3>
 
