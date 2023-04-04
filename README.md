@@ -1,5 +1,5 @@
 
-## Hi there, I make apps instead of working :grin: 
+make apps instead of working :grin: 
 
 ## About Me
 - Native Brazilian
