@@ -15,10 +15,7 @@ make apps instead of working :grin:
 - SQLite
 - Room
 - App Design
-- XML (constraintLayout, recyclerViews, fragments and other complexes views)
-- Android SDK
 - MVVM
-- MVC
 - Good practices
 
 ## Other Skills
@@ -26,8 +23,8 @@ make apps instead of working :grin:
 *Microcontrolers*
 - Arduino projects
 - Pic Microcontrolers
-- C/C++ Languages (yes, I know how to use pointers 😁)
-- Raspberry PI projects
+- C/C++ Languages (yes, use pointers some times 😁)
+- Some Raspberry PI projects
 - Circuit Design
 - Hardware and softwares tools
 
