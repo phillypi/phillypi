@@ -18,8 +18,6 @@ make apps instead of working :grin:
 - MVVM
 - Good practices
 
-## Other Skills
-
 *Microcontrolers*
 - Arduino projects
 - Pic Microcontrolers
