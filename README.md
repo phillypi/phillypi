@@ -4,7 +4,6 @@ make apps instead of working :grin:
 ## About Me
 - Native Brazilian
 - Android Developer
-- Proficient in Java, Kotlin, Firebase and Room
 
 ## Technical Skills
 
@@ -29,15 +28,11 @@ make apps instead of working :grin:
 ## Computer, networks and protocols
 
 - Linux, Ctrl+Alt+T
-- Mikrotik, RouterBoards
-- CISCO (a little)
+- RouterBoards
 - Swiches
-- Wireless link P2P
-- Digital link P2P
-- Panels(radio signal multi-client antennas and links)
+- Wireless and digital link
 - DSLAM
-- IP, HTTP, FTP, FTPS, SSH, ARP, TCP, UDP, SMTP, IMAP, DHCP
-- WEP/WPA/WPA2
+- Protocols
 
 ## WoodWorking and mechanic 
 
