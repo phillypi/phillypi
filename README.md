@@ -36,7 +36,7 @@ make apps instead of working :grin:
 
 ## WoodWorking and mechanic 
 
-- You may be surprised by some of the things I can do with wood or with custom motorcycles :grin:.
+- You may be surprised by some of the things I can do with some wood or with custom motorcycles :grin:.
 
 <br>
 
