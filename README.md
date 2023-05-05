@@ -23,7 +23,6 @@ make apps instead of working :grin:
 - C/C++ Languages (yes, use pointers some times 😁)
 - Some Raspberry PI projects
 - Circuit Design
-- Hardware and softwares tools
 
 ## Computer, networks and protocols
 
