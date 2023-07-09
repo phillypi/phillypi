@@ -8,24 +8,18 @@ make apps instead of working :grin:
 ## Technical Skills
 
 *Native Android*
-- Java
-- Kotlin
-- Firebase
-- SQLite
-- Room
-- App Design
+- Java/Kotlin
+- Firebase/SQLite
+- Room DB
 - MVVM
-- Good practices
 
 *Microcontrolers*
-- Arduino projects
-- Pic Microcontrolers
+- Arduino projects/Pic Microcontrolers
 - C/C++ Languages (yes, use pointers some times 😁)
 - Some Raspberry PI projects
 - Circuit Design
 
 ## Computer, networks and protocols
-
 - Linux, Ctrl+Alt+T
 - RouterBoards
 - Swiches
@@ -34,7 +28,6 @@ make apps instead of working :grin:
 - Protocols
 
 ## WoodWorking and mechanic 
-
 - You may be surprised by some of the things I can do with some wood or with custom motorcycles :grin:.
 
 <br>
