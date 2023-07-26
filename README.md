@@ -15,7 +15,7 @@ make apps instead of working :grin:
 
 *Microcontrolers*
 - Arduino projects/Pic Microcontrolers
-- C/C++ Languages (yes, use pointers some times 😁)
+- C/C++ Languages (yes, I used pointers some times 😁)
 - Some Raspberry PI projects
 - Circuit Design
 
