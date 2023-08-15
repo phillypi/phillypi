@@ -5,8 +5,7 @@ make apps instead of working :grin:
 - Native Brazilian
 - Android Developer
 
-## Technical Skills
-
+## I work with:
 *Native Android*
 - Java/Kotlin
 - Firebase/SQLite
@@ -15,7 +14,7 @@ make apps instead of working :grin:
 
 *Microcontrolers*
 - Arduino projects/Pic Microcontrolers
-- C/C++ Languages (yes, I used pointers some times 😁)
+- C/C++ Languages 
 - Some Raspberry PI projects
 - Circuit Design
 
@@ -25,22 +24,10 @@ make apps instead of working :grin:
 - Swiches
 - Wireless and digital link
 - DSLAM
-- Protocols
-
-## WoodWorking and mechanic 
-- You may be surprised by some of the things I can do with some wood or with custom motorcycles :grin:.
-
+- Other protocols
+  
 <br>
 
-<h3 align="center">Here are some statistics that don't matter much; the coolest thing is the snake.</h3>
-
-
-<div align="center">
-  <a href="https://github.com/phillypi">
-  <img height="145em" width="350em" src="https://github-readme-stats.vercel.app/api?username=phillypi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillypi&layout=tokyonight&langs_count=7&theme=tokyonight"/>
-</div>
-  
 <div style="display: inline_block" align="center" ><br>
 <img align="center" alt="ph" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
   <img align="center" alt="ph" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -50,5 +37,3 @@ make apps instead of working :grin:
   <img align="center" alt="ph" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="ph" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
 <br>
-
- ![Snake animation](https://github.com/phillypi/phillypi/blob/output/github-contribution-grid-snake.svg)
