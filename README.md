@@ -11,6 +11,9 @@ make apps instead of working :grin:
 - Firebase/SQLite
 - Room DB
 - MVVM
+- Payment systems
+- Google Play Billing
+- Play Store Apps
 
 *Microcontrolers*
 - Arduino projects/Pic Microcontrolers
