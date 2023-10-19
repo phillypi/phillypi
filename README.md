@@ -28,6 +28,9 @@ make apps instead of working :grin:
 - Wireless and digital link
 - DSLAM
 - Other protocols
+
+  ## WoodWorking, my other work
+  - [Rústico & Nobre](https://www.rusticonobre.com.br)
   
 <br>
 
