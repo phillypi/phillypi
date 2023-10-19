@@ -30,7 +30,7 @@ make apps instead of working :grin:
 - Other protocols
 
   ## WoodWorking, my other work
-  - [Rústico & Nobre](https://www.rusticonobre.com.br)
+- [Rústico & Nobre](https://www.rusticonobre.com.br)
   
 <br>
 
